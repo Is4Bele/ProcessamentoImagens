@@ -6,8 +6,8 @@ Detecção inteligente de pessoas em tempo real usando webcam, YOLOv8 e OpenCV.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/is4bele/ProcessamentoImagens.git
-cd viziguardian
+git clone https://github.com/Is4Bele/ProcessamentoImagens
+cd ProcessamentoImagens
 ```
 
 2. Crie um ambiente virtual:
